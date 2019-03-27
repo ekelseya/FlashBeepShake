@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Flash Beep Shake</string>
+    <string name="flash">Flash!</string>
+    <string name="beep">Beep!</string>
+    <string name="shake">Shake!</string>
+    <string name="flash_off">Flash Off!</string>
+</resources>
